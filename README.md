@@ -13,4 +13,4 @@ The third phase consists of analyzing each individual opinion and extracting the
 The user can submit a query for any company or a particular sector. The output would be represented in the pictorial form showing the current company status or the stock status as well as the trends over a period of time. An aggregate opinion for each stock market predictor can also be shown. The person can then decide on the basis of the output whether he or she should invest in a particular company or sector.
 
 # Tools and Technologies
-PHP, Python, MySQL, Javascript APIS(Highstocks and Highcharts)
+PHP, Python, MySQL, Javascript API(Highstocks and Highcharts)
